@@ -7,6 +7,7 @@ export default function NodeJS() {
         <div>
             <h2>NodeJS Konulari</h2>
             <p>{deger}</p>
+            <p>Node</p>
             <p>..........</p>
             <p>..........</p>
             <p>..........</p>
